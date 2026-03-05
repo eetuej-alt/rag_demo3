@@ -1,0 +1,21 @@
+Siemens LOGO! is a compact, intelligent logic module designed by Siemens for small-scale automation tasks in industrial and building applications. It replaces traditional switchgear like timers and relays with programmable, easy-to-use software (LOGO! Soft Comfort), featuring built-in Ethernet, cloud connectivity, and expandable I/O modules. 
+Siemens
+Siemens
+ +4
+Key Features and Capabilities
+Application: Ideal for simple control tasks, such as lighting, HVAC, and small machine automation.
+Programming: Uses LOGO! Soft Comfort software with drag-and-drop, function-block-based programming, which is easy to learn.
+Components: Includes basic modules with displays, digital/analog expansion modules, and communication modules (e.g., KNX, Modbus).
+Connectivity: Features integrated web servers and native cloud connectivity (since version 8.3).
+Versatility: Replaces conventional, hardwired, and time-switch relay cabinets with a more flexible, space-saving solution. 
+Siemens
+Siemens
+ +7
+LOGO! 8 Highlights
+The current generation, LOGO! 8, offers improved performance, including: 
+Ethernet Port: Standard on all basic units for communication.
+Display: Large display with 6 lines and 20 characters per line, with adjustable backlight colors.
+Expanded Temperature Range: Operates from 
+ to 
+.
+Starter Kits: Available for quick, plug-and-play, out-of-the-box setup

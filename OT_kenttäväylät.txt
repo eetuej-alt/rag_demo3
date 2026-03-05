@@ -1,0 +1,14 @@
+An OT (Operational Technology) fieldbus is a digital, two-way, multi-drop communication network used in industrial automation to connect field devices—like sensors, actuators, and controllers—to a centralized control system (PLC/DCS). It replaces traditional 4-20 mA analog wiring, reducing cabling costs and providing detailed diagnostic data. 
+RealPars
+RealPars
+ +4
+Key Aspects of OT Fieldbus:
+Purpose: Enables real-time, closed-loop control between intelligent instruments and control systems.
+Functionality: Allows multiple devices to share a single network cable, supporting bus, star, and tree topologies.
+Common Protocols: Examples include PROFIBUS, Foundation Fieldbus, Modbus, DeviceNet, and PROFINET (Ethernet-based).
+Benefits: Features interoperability, enhanced diagnostics, and simplified installation.
+Application: Widely used in manufacturing, oil and gas, and process industries for automation. 
+Wikipedia
+Wikipedia
+ +5
+Fieldbus differs from traditional serial communication (which only connects two devices) by enabling complex, networked communication across a whole plant floor.
